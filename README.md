@@ -55,34 +55,58 @@ Aplicación de la ley de Ohm
 (b) ¿Cuál es el voltaje a través de cada resistor?
 (c) ¿Cuál es el valor nominal de potencia de los resistores?
 
-
-
 23. ¿Cuál es el valor de cada resistor mostrado en la figura 5-75?
 
 ![image](https://user-images.githubusercontent.com/116814386/203612748-2c627b50-8fbf-48c8-9936-a48e6b7a5663.png)
 
+Dado que estamos en un circuito en serie la intensidad dde corriente sera igual para cada resitor por lo que calcularemos el valor de las resistencias de la siguiente forma 
+![image](https://user-images.githubusercontent.com/116814386/203659187-f11d149b-67e9-4c72-8670-9af464bf54b6.png)
+
 25. En el circuito de la figura 5-77, el medidor lee 7.84 mA cuando el interruptor está en la posición A.
-(a) ¿Cuál es la resistencia de R4?
-(b) ¿Cuál deberá ser la lectura del medidor en las posiciones B, C y D del interruptor?
-(c) ¿Se fundirá un fusible de 1⁄4 A en cualquier posición del interruptor?
 
 ![image](https://user-images.githubusercontent.com/116814386/203613961-773804ad-e3db-40b4-95f0-02a509f3994e.png)
 
-![image](https://user-images.githubusercontent.com/116814386/203614066-e4bd70fb-1345-4dbd-a392-9b8b8d20142a.png)
+(a) ¿Cuál es la resistencia de R4?
+
+![image](https://user-images.githubusercontent.com/116814386/203660804-613095f7-1f56-4900-b065-686bebdf88bc.png)
+
+(b) ¿Cuál deberá ser la lectura del medidor en las posiciones B, C y D del interruptor?
+
+![image](https://user-images.githubusercontent.com/116814386/203662481-3bb19932-2551-401c-994b-831f421ee1ce.png)
+
+(c) ¿Se fundirá un fusible de 1⁄4 A en cualquier posición del interruptor?
+
+No se reopera el fusible en ningun caso 
 
 27. Ayuda en serie es un término utilizado en ocasiones para describir fuentes de voltaje de la misma polaridad en serie. Si una fuente de 5 V y otra de 9 V están conectadas de esta manera, ¿cuál es el voltaje total?
+Al estar conectadas en serie los voltajes se sumarán 
+
+Vt=5V+9V=14V
 
 29. Determine el voltaje de fuente total en cada circuito de la figura 5-79.
 
 ![image](https://user-images.githubusercontent.com/116814386/203614312-01998b8d-0df3-46bf-9d16-58dac1adb2e6.png)
 
+![image](https://user-images.githubusercontent.com/116814386/203663169-8de748fb-0103-4cf8-bd62-0a83fa8616c3.png)
+
+
 Ley del voltaje de Kirchhoff
 
 31. Cinco resistores están dispuestos en serie con una fuente de 20 V. Las caídas de voltaje a través de cuatro de los resistores son: 1.5 V, 5.5 V, 3 V, y 6 V. ¿Cuál es la caída de voltaje en el quinto resistor?
 
+La ley establece que la sumatoria de las fuentes de voltaje debe ser igual a la sumatoria de las caídas de tensión 
+
+20V= 1.5 V+ 5.5 V+3 V + 6 V + VR5
+
+VR5=20V-16V=4V
+
 33. En el circuito de la figura 5-81, determine la resistencia de R4.
 
 ![image](https://user-images.githubusercontent.com/116814386/203614535-123ee8be-ba71-427e-8562-a95b11cbc215.png)
+
+Como la intensidad de corriente es igual para cualquiera de los resitores calculamos la intensidad de corriente 
+
+![image](https://user-images.githubusercontent.com/116814386/203664208-4466d0df-c5f1-4c82-a83e-392862301f18.png)
 
 35. Determine el voltaje a través de R5 para cada una de las posiciones del interruptor de la figura 5-83. La corriente en cada posición es como sigue: A, 3.35 mA; B, 3.73 mA; C, 4.50 mA; D, 6.00 mA
 ![image](https://user-images.githubusercontent.com/116814386/203614741-c0978d86-78db-4f1a-b8f0-bcef74ce05f8.png)
