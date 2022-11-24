@@ -14,9 +14,11 @@ Resistores en serie
 
 1. Conecte en serie cada juego de resistores mostrado en la figura 5-67 entre los puntos A y B
 
-![image](https://user-images.githubusercontent.com/116814386/203610487-dee6abfc-f2c4-476d-bd06-1f61f9119aa8.png)
+![image](https://user-images.githubusercontent.com/116814386/203827018-fa359231-c275-4ed0-b9c2-0a024638d220.png)
 
 3. Determine la resistencia nominal presente entre las puntas 1 y 8 del circuito de la figura 5-68.
+
+![image](https://user-images.githubusercontent.com/116814386/203827312-e8e266d6-e607-44e5-89ec-8d8e31ac2954.png)
 
 ![image](https://user-images.githubusercontent.com/116814386/203610794-faf9c387-ae4f-469b-9a41-6ca5053e2897.png)
 
@@ -28,15 +30,23 @@ Corriente en un circuito en serie
 
 7. La corriente suministrada por la fuente en la figura 5-70 es de 5 mA. ¿Cuánta corriente indica cada miliamperímetro localizado en el circuito?
 
+Dado que es un circuito en serie todas ls intensidades seran igual a 5mA
+
 ![image](https://user-images.githubusercontent.com/116814386/203611346-c27c243f-f692-4d68-84df-1049006b5c90.png)
 
 9. Con baterías de 1.5 V, un interruptor, y tres lámparas, disponga un circuito para aplicar 4.5 V a través de cualquier lámpara, de dos lámparas en serie, o de tres lámparas en serie con un solo interruptor de control. Trace el diagrama esquemático.
 
 11. Encuentre la resistencia total de los siguientes grupos de resistores en serie:
 
-13. ¿Cuál es la resistencia total de doce resistores de 5.6 kÆ dispuestos en serie?
+![image](https://user-images.githubusercontent.com/116814386/203828990-80085aae-6bd1-455c-a9fd-735f68a6e9e2.png)
 
-15. Si en la figura 5-72 la resistencia total es de 17.4 kÆ, ¿cuál es el valor de R5?
+13. ¿Cuál es la resistencia total de doce resistores de 5.6 kΩ dispuestos en serie?
+
+![image](https://user-images.githubusercontent.com/116814386/203829257-d40cf9e1-3ef9-4788-ae15-4e485133283b.png)
+
+15. Si en la figura 5-72 la resistencia total es de 17.4 kΩ, ¿cuál es el valor de R5?
+
+![image](https://user-images.githubusercontent.com/116814386/203829803-4916b13c-14e6-4b1c-bdfd-a15429e667ea.png)
 
 ![image](https://user-images.githubusercontent.com/116814386/203611894-fc02fb5e-ccb9-43b2-811b-4d88380c2a79.png)
 
@@ -44,16 +54,29 @@ Corriente en un circuito en serie
 
 ![image](https://user-images.githubusercontent.com/116814386/203612106-4909d9b5-0a8c-4cd9-9ee3-05041534d4d9.png)
 
+![image](https://user-images.githubusercontent.com/116814386/203830791-85c066e0-e177-43d2-8c83-9def7241f3e8.png)
+
 Aplicación de la ley de Ohm
 
 19. ¿Cuál es la corriente presente en cada circuito de la figura 5-74?
 
 ![image](https://user-images.githubusercontent.com/116814386/203612341-adbbfb52-9ed0-4eb0-a326-7c3780ee3b2c.png)
 
+![image](https://user-images.githubusercontent.com/116814386/203831801-a3042050-1c52-4aa2-b429-3e31af3a14bc.png)
+
 21. Se conectan tres resistores de 470 Æ en serie con una fuente de 48 V.
+
 (a) ¿Cuál es la corriente en el circuito?
+
+![image](https://user-images.githubusercontent.com/116814386/203834436-12409456-5e03-4833-a754-21fe2394b714.png)
+ 
 (b) ¿Cuál es el voltaje a través de cada resistor?
+
+![image](https://user-images.githubusercontent.com/116814386/203834494-fac9882a-1b92-4f42-8866-c1fcb7cd8ec1.png)
+
 (c) ¿Cuál es el valor nominal de potencia de los resistores?
+
+![image](https://user-images.githubusercontent.com/116814386/203835403-5f51f5c8-e438-4788-a914-2182a778ba0c.png)
 
 23. ¿Cuál es el valor de cada resistor mostrado en la figura 5-75?
 
