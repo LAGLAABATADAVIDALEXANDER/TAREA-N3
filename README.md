@@ -18,9 +18,9 @@ MARCO TEORICO
 
 ![image](https://user-images.githubusercontent.com/116814386/204043366-1f567791-a1b6-495d-adb7-74839b2e0541.png)
 
-![image](https://user-images.githubusercontent.com/116814386/204043567-8432fb1a-6208-483c-9c0c-d2d1375edcf3.png)
-
-![image](https://user-images.githubusercontent.com/116814386/204043661-bf468900-a1fe-4939-a15a-c6dac67113bd.png)
+![image](https://user-images.githubusercontent.com/116814386/204043783-e179453a-4fe1-429a-b64b-965bf7ab0b8c.png)
+ 
+ ![image](https://user-images.githubusercontent.com/116814386/204043832-b24679a4-6965-4b0a-87d8-237552bd954f.png)
 
 Ejercicios del capitulo 5 y 6 
 
