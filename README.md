@@ -2,9 +2,17 @@
 
 OBJETIVOS 
 
+
+
 Objetivo General
 
+Comprender e identificar el comportamiento y las diferencias de los circuitos en serie y paralelos para analizarlos de manera cuantitativa con las leyes de Ohm y las leyes de kirchhoff
+
 Objetivos Especificos 
+
+Analizar e identificar las características de los circuitos en serie y relación que puede aplicarse para el análisis de estos mediante las leyes fundamentales de los circuitos eléctricos
+
+Comprender e identificar las características que dan identidad a los circuitos paralelos y el comportamiento de la corriente el voltaje y la intensidad Dentro de este para hacer un análisis adecuado de su funcionamiento
 
 MARCO TEORICO
 
@@ -25,6 +33,14 @@ Resistores en serie
 5. En la tarjeta de circuito impreso de doble cara mostrada en la figura 5-69, identifique cada grupo de resistores en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la cara posterior.
 
 ![image](https://user-images.githubusercontent.com/116814386/203611089-393b9f9b-b588-4bbb-a65c-e7a11ef8a506.png)
+
+Las resistencias están en serie son los siguientes grupos
+
+R1, R7, R8y R10
+
+R2, R4, R6y R11
+
+R3, R5, R9y y R8
 
 Corriente en un circuito en serie
 
@@ -139,17 +155,33 @@ Divisores de voltaje
 
 37. La resistencia total de un circuito es de 560 Æ. ¿Qué porcentaje del voltaje total aparece a través de un resistor de 27 Æ que forma parte de la resistencia total en serie?
 
+El porcentaje será de 4.82 %
+
 39. Determine el voltaje con respecto a tierra para las salidas A, B y C en la figura 5-85(a).
+
+A 15 V B10.6 y C 2.62 V
 
 41. ¿Cuál es el voltaje a través de cada resistor mostrado en la figura 5-86? R es el resistor de valor más bajo, y todos los demás resistores son múltiplos de dicho valor como se indica.
 
 ![image](https://user-images.githubusercontent.com/116814386/203615141-60760c0d-b9b5-452a-a4d1-2eed644b9b73.png)
 
+Se puede observar qué la suma de las resistencias sería igual a 15 R y el voltaje es igual a 90 voltios Cómo el voltaje se dividirá de manera proporcional en cada una de las resistencias la resistencia de valor más bajo tendrá un valor de 6 ohmios entonces las resistencias tendrían los siguientes valores
+
+R1= 6V
+
+R2=12V
+
+R3=15V 
+
+R4=24V
+
+R5= 30V
+
 43. Si hay 10 V a través de R1 en la figura 5-88, ¿cuál es el voltaje en cada uno de los demás resistores?
 
 ![image](https://user-images.githubusercontent.com/116814386/203615260-5007ecee-6abb-49f5-a63a-0cda5fe2e9b8.png)
 
-*45. Diseñe un divisor de voltaje variable para producir un voltaje de salida ajustable desde un mínimo de
+45. Diseñe un divisor de voltaje variable para producir un voltaje de salida ajustable desde un mínimo de
 10 V hasta un máximo de 100 V dentro del 1% con una fuente de 1 a 120 V. El voltaje máximo debe
 ocurrir en el ajuste de resistencia máxima del potenciómetro, y el voltaje mínimo debe ocurrir en el
 ajuste de resistencia mínima (cero). La corriente tiene que ser de 10 mA.
@@ -193,9 +225,16 @@ Resistores en paralelo
 
 1. Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería
 
+
 3. Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara mostrada en la figura 6-66.
 
 ![image](https://user-images.githubusercontent.com/116814386/203617485-78f2a353-12bf-45cd-9317-b50988914939.png)
+
+R1, R2, R5, R9, R10, y R12
+
+R4, R6, R7, y R8
+
+R3y R11
 
  Voltaje en un circuito en paralelo
  
@@ -203,10 +242,14 @@ Resistores en paralelo
  
  ![image](https://user-images.githubusercontent.com/116814386/203617654-b5049beb-36ba-40a2-8b5c-bf39327f8459.png)
 
+El voltaje será igual ya que en los circuitos en serie siempre se mantendrá el mismo voltaje en cada punto de la trayectoria
+
 7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del
 interruptor?
 
 ![image](https://user-images.githubusercontent.com/116814386/203617830-d87a35de-b880-409d-8e31-420623b9eb27.png)
+
+Dado Qué es un circuito en paralelo todas las mediciones eran de 15 voltios
 
 Ley de las corrientes de Kirchhoff
 
@@ -237,6 +280,8 @@ Aplicación de la ley de Ohm
 25. Muchos tipos de luces decorativas están conectados en paralelo. Si se conecta un juego de luces a una
 fuente de 110 V y si la resistencia en caliente del filamento de cada foco es de 2.2 kÆ, ¿cuál es la co
 
+La corriente será de 50 ma y el circuito seguirá funcionando normalmente con la diferencia de que el foco fundido no funcionará Pero los demás sí
+
 27. ¿A qué valor mínimo se puede ajustar el reóstato de 100 Æ mostrado en la figura 6-75 antes de que el
 fusible de 0.5 A se funda?
 
@@ -250,6 +295,12 @@ Fuentes de corriente en paralelo
 la figura 6-79.
 
 ![image](https://user-images.githubusercontent.com/116814386/203618902-8a23b665-4b6c-42e6-a4bf-ac92e87e0e0a.png)
+
+A: 2.25 mA 
+
+B: 4.75 mA 
+
+C: 7 mA
 
 Divisores de corriente
 
@@ -287,10 +338,24 @@ Localización de fallas
 
 ![image](https://user-images.githubusercontent.com/116814386/203629281-abc40371-3ba7-4c51-9dd4-5d07c39c65aa.png)
 
+El Resistol de 8.2 ohmios está abierto Esa es la falla de este circuito
+
 47. Desarrolle un procedimiento de prueba para revisar la tarjeta de circuito mostrada en la figura 6-87 y
 asegurarse de que no hay componentes abiertos. Debe realizar esta prueba sin quitar el componente de
 la tarjeta. Describa el procedimiento en un formato detallado paso a paso.
 
+El procedimiento que se realizaría sería colocar el medidor entre las cobijas 1 y 2 y comprobar las mediciones después colocar las entre las clavijas 3 y 4 y comprobar las mediciones y repetir este mismo proceso con las clavijas 5 y 6 para asegurarnos de que esté funcionando correctamente el circuito
+
 49. Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:
 (a) 1 y 2 (b) 2 y 3 (c) 2 y 4 (d) 1 y 4
+
+
+
+Conclusiones 
+
+Se identifico y comprendió las diferencias que existen entre los circuitos conectados en configuración en serie y los conectados en configuración en paralelo Además de que se los pudo relacionar con las leyes fundamentales de los tributos eléctricos para realizar un análisis cuantitativo del comportamiento de estos
+
+Video 
+
+Bibliografia 
 
