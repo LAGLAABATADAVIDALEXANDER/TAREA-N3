@@ -1,5 +1,8 @@
 ## UNIVERSIDAD DE LAS FUERZAS ARMADAS 
 
+Nombre: David Lagla 
+
+
 OBJETIVOS 
 
 
@@ -404,5 +407,9 @@ Se identifico y comprendió las diferencias que existen entre los circuitos cone
 
 Video 
 
+https://youtu.be/S8A1h7MyTTw
+
 Bibliografia 
+
+Fundamentos de circuitos eléctricos de Floyd 
 
